@@ -13,6 +13,7 @@ python -m pip install tabulate
 python -m pip install transformers
 ```
 use opencv == 4.8.0.74
+
 For the correct functioning of the code with the BLIP2 model, you need to install the dev version of LAVIS
 
 ```
