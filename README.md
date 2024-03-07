@@ -11,6 +11,7 @@ python -m pip install timm
 python -m pip install fairscale
 python -m pip install tabulate
 python -m pip install transformers
+python -m pip install gradio
 ```
 use opencv <= 4.8.0.74
 
